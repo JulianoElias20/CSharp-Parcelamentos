@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\source\\repos\\Parcelamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|c:\\users\\julia\\source\\repos\\parcelamento\\parcelamento\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|solutionrelative:parcelamento\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|c:\\users\\julia\\source\\repos\\parcelamento\\parcelamento\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|solutionrelative:parcelamento\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|c:\\users\\julia\\source\\repos\\parcelamento\\parcelamento\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|solutionrelative:parcelamento\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|c:\\users\\julia\\source\\repos\\parcelamento\\parcelamento\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|solutionrelative:parcelamento\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|c:\\users\\julia\\source\\repos\\parcelamento\\parcelamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E407BDA-81EA-4BFC-9877-AD5160D0550C}|Parcelamento\\Parcelamento.csproj|solutionrelative:parcelamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Entities\\Installment.cs",
+              "RelativeDocumentMoniker": "Parcelamento\\Entities\\Installment.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Entities\\Installment.cs",
+              "RelativeToolTip": "Parcelamento\\Entities\\Installment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:06:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "Parcelamento\\Services\\PaypalService.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Services\\PaypalService.cs",
+              "RelativeToolTip": "Parcelamento\\Services\\PaypalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:04:20.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "Parcelamento\\Services\\ContractService.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Services\\ContractService.cs",
+              "RelativeToolTip": "Parcelamento\\Services\\ContractService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:04:08.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "Parcelamento\\Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Entities\\Contract.cs",
+              "RelativeToolTip": "Parcelamento\\Entities\\Contract.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:01:19.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Program.cs",
+              "RelativeDocumentMoniker": "Parcelamento\\Program.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Parcelamento\\Parcelamento\\Program.cs",
+              "RelativeToolTip": "Parcelamento\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:00:43.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\bin\Debug\net8.0\Parcelamento.exe
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\bin\Debug\net8.0\Parcelamento.deps.json
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\bin\Debug\net8.0\Parcelamento.runtimeconfig.json
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\bin\Debug\net8.0\Parcelamento.dll
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\bin\Debug\net8.0\Parcelamento.pdb
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\obj\Debug\net8.0\Parcelamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\obj\Debug\net8.0\Parcelamento.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\obj\Debug\net8.0\Parcelamento.AssemblyInfo.cs
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\obj\Debug\net8.0\Parcelamento.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\obj\Debug\net8.0\Parcelamento.dll
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\obj\Debug\net8.0\refint\Parcelamento.dll
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\obj\Debug\net8.0\Parcelamento.pdb
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\obj\Debug\net8.0\Parcelamento.genruntimeconfig.cache
+C:\Users\julia\source\repos\Parcelamento\Parcelamento\obj\Debug\net8.0\ref\Parcelamento.dll
